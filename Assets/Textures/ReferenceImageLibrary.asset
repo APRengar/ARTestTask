@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5305612295063866625
+  m_GuidHigh: 17435321928246685596
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5726307017103264985
+      m_GuidHigh: 1519945600177220274
+    m_SerializedTextureGuid:
+      m_GuidLow: 10769268815473578995
+      m_GuidHigh: 4650477684083089291
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: cactus
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4994530217981519386
+      m_GuidHigh: 9644093517863075985
+    m_SerializedTextureGuid:
+      m_GuidLow: 7301662482486872847
+      m_GuidHigh: 4031011813955964507
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: chair
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5365884646465869857
+      m_GuidHigh: 16999837129175331470
+    m_SerializedTextureGuid:
+      m_GuidLow: 15106462460166642309
+      m_GuidHigh: 1785598665027318472
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mixer
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4967359021077259563
+      m_GuidHigh: 1487876396452931998
+    m_SerializedTextureGuid:
+      m_GuidLow: 17232086521458990356
+      m_GuidHigh: 4480367772399267387
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: robot
+    m_Texture: {fileID: 0}
